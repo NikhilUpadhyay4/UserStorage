@@ -43,7 +43,7 @@ Usage
 Send a GET request to /search endpoint with userName and searchTerm parameters to search for files.
 Send a GET request to /download/{userName}/{fileName} endpoint to download the desired file.
 
-#Example
+# Example
 Search for files containing "logistics" in the username "sandy":
 GET /search?userName=sandy&searchTerm=logistics
 Download a file named "example.txt" owned by user "sandy":
