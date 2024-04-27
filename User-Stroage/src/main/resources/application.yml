@@ -12,8 +12,8 @@ spring:
 cloud:
   aws:
     credentials:
-      access-key: 
-      secret-key: 
+      access-key: # TODO: Add Aws access key
+      secret-key: # TODO: Add Aws secret key
     region:
       static: "ap-south-1"
     stack:
